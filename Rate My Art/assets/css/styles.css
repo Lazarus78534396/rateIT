@@ -1,0 +1,199 @@
+body{
+  background-color:#77d8d8;
+}
+
+div.page_top{
+  background-color:#0779e4;
+  height:20vh;
+  border-bottom-left-radius:40px;
+  border-bottom-right-radius:40px;
+  width:100%;
+  margin-top:-20px;
+}
+
+h1{
+  padding-top:10px;
+  margin-left:10px;
+  font-family:Arial;
+  font-size:40px;
+  color:white;
+}
+
+div.intro{
+  background-color:#222831;
+  color:white;
+  height:10vh;
+  margin-top:10px;
+  border-bottom-left-radius:20px;
+  border-top-left-radius:20px;
+  text-align:center;
+  align-content:center;
+}
+
+nav.navbar.navbar-default{
+  background-color:#0779e4;
+}
+
+div.pictures{
+  margin-top:10px;
+  display:flex;
+}
+
+p.lead{
+  margin:auto;
+  font-size:25px;
+  padding:13px;
+}
+
+div.about{
+  margin:auto;
+  background-color:#30475e;
+  border-bottom-left-radius:20px;
+  border-top-left-radius:20px;
+  height:30vh;
+}
+
+p.about-paragraph{
+  color:white;
+  margin-left:5px;
+  font-size:18px;
+}
+
+div.contact-about{
+  text-align:center;
+  margin-top:15vh;
+  height:40vh;
+  border-top-right-radius:20px;
+  border-top-left-radius:20px;
+  background-color:#30475e;
+}
+
+img.art{
+  height:50vh;
+  width:100%;
+}
+
+div.contact-about{
+  color:white;
+}
+
+h4.media-heading{
+}
+
+div.fb{
+  text-align:center;
+  display:flex;
+  align-items:center;
+}
+
+p.fbName{
+  font-size:20px;
+  margin:auto;
+}
+
+h1.contact{
+  text-align:left;
+}
+
+ul{
+  list-style-type:none;
+}
+
+input.imgInput{
+  width:0.1px;
+  height:0.1px;
+  opacity:0;
+  overflow:hidden;
+  position:absolute;
+  z-index:-1;
+}
+
+input.imgInput + label{
+}
+
+input.imgInput + label{
+}
+
+input.imgInput + label{
+  font-size:1.25em;
+  font-weight:700;
+  color:white;
+  background-color:black;
+  display:inline-block;
+}
+
+input.imgInput:focus + label, input.imgInput + label:hover{
+}
+
+input.imgInput:focus + label{
+  background-color:red;
+}
+
+input.imgInput + label:hover{
+  background-color:red;
+}
+
+input.imgInput + label{
+  cursor:pointer;
+}
+
+div.upload-form{
+  color:white;
+  background-color:#30475e;
+  height:35vh;
+  margin:auto;
+}
+
+button.btn.btn-default{
+  text-align:center;
+  width:25%;
+}
+
+input.discription{
+  margin-top:15px;
+  font-size:18px;
+  width:80%;
+}
+
+button.btn.btn-default{
+  margin-top:30px;
+}
+
+input.FileimgUpload{
+  margin-top:30px;
+}
+
+input.FileimgUpload{
+  font-size:18px;
+}
+
+label{
+  font-size:18px;
+}
+
+button.btn.btn-default{
+  font-size:18px;
+}
+
+form{
+  background-color:#30475e;
+}
+
+div.Yay-or-nay{
+  display:flex;
+  flex:1;
+  background-color:#30475e;
+}
+
+button.btn.btn-danger{
+  margin:auto;
+  width:25%;
+  height:10vh;
+}
+
+button.btn.btn-success{
+  margin:auto;
+  width:25%;
+  height:10vh;
+}
+
