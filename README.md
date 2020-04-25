@@ -1,2 +1,3 @@
 # rateIT
-a webApp used to share art
+a webApp used to share art(incomplete)
+
